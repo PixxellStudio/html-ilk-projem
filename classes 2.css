@@ -1,0 +1,15 @@
+.Canon {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
+
+.Tost {
+  background-color: rgb(255, 230, 0);
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 30px;
+}

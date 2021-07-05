@@ -1,0 +1,30 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #b9b9b9;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgba(243, 0, 0, 0.726);
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #03a1d1;
+}
+body {
+background-color: cadetblue;
+}
+h1{
+color: chartreuse;
+text-align: center;
+}
